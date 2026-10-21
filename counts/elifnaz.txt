@@ -1,0 +1,3 @@
+pencil 1
+eraser3
+notebook5
