@@ -1,0 +1,3 @@
+Laptop 1
+Phone 1
+Mug 2
