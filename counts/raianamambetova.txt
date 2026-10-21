@@ -1,0 +1,3 @@
+Paper 100
+Orange 45
+Water 15
