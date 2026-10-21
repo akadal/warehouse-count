@@ -1,0 +1,3 @@
+keyboard: 1
+mobile: 2
+mouse: 3
