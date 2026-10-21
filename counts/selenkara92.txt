@@ -1,0 +1,3 @@
+Pens 50
+Paper 200
+Folders 30
